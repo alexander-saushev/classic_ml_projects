@@ -1,5 +1,7 @@
 # Спрос на рейсы авиакомпании
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/classic_ml_projects/blob/main/09_air_company_analytics/04_air_company_analytics.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/classic_ml_projects/blob/main/09_air_company_analytics/04_air_company_analytics.ipynb).
+
 ### Задача
 
 Наш проект — это исследование для российской авиакомпании F9, выполняющей внутренние пассажирские авиаперевозки. Нам нужно понять предпочтения пользователей, покупающих билеты на те или иные направления.

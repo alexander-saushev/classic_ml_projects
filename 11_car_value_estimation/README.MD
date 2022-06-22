@@ -1,5 +1,7 @@
 # Оценка стоимости автомобиля
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/classic_ml_projects/blob/main/11_car_value_estimation/car_value_estimation.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/classic_ml_projects/blob/main/11_car_value_estimation/car_value_estimation.ipynb).
+
 ### Задача
 
 Нужно построить модель для оценки (предсказания) стоимости автомобиля по его характеристикам.

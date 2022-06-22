@@ -1,5 +1,7 @@
 # Рекомендация мобильного тарифа на основе поведения пользователя
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/classic_ml_projects/blob/main/06_tariff_recommendations/tariff_recommendations.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/classic_ml_projects/blob/main/06_tariff_recommendations/tariff_recommendations.ipynb).
+
 ### Задача
 
 Оператор мобильной связи «Мегалайн» выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».

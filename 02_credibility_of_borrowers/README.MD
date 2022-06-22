@@ -1,5 +1,7 @@
 # Исследование надежности заемщиков
 
+[Посмотреть проект в NBViewer](https://github.com/alexander-saushev/classic_ml_projects/blob/main/02_credibility_of_borrowers/credibility_of_borrowers.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://nbviewer.org/github/alexander-saushev/classic_ml_projects/blob/main/02_credibility_of_borrowers/credibility_of_borrowers.ipynb).
+
 ### Задача
 
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. 

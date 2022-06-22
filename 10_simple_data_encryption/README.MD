@@ -1,5 +1,7 @@
 # Защита персональных данных клиентов страховой компании
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/classic_ml_projects/blob/main/10_simple_data_encryption/simple_data_encryption.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/classic_ml_projects/blob/main/10_simple_data_encryption/simple_data_encryption.ipynb).
+
 ### Задача
 
 Нужно защитить данные клиентов страховой компании «Хоть потоп». Разработаем такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, но при этом качество модели линейной регрессии не ухудшилось.

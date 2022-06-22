@@ -1,5 +1,7 @@
 # Выбор региона для разработки скважин
 
+[Посмотреть проект в NBViewer](https://nbviewer.org/github/alexander-saushev/classic_ml_projects/blob/main/08_well_development_profit_prediction/well_development_profit_prediction.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://github.com/alexander-saushev/classic_ml_projects/blob/main/08_well_development_profit_prediction/well_development_profit_prediction.ipynb).
+
 ### Задача
 
 Для добывающей компании «ГлавРосГосНефть» нужно определить регион, в котором добыча принесет наибольшую выручку.

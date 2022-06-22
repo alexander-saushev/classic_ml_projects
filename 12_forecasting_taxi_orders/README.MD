@@ -1,5 +1,7 @@
 # Прогнозирование спроса на такси
 
+[Посмотреть проект в NBViewer](https://github.com/alexander-saushev/classic_ml_projects/blob/main/12_forecasting_taxi_orders/forecasting_taxi_orders.ipynb) — в нем работает оглавление. Иногда сервис сбоит и проект не рендерится. Тогда можно [открыть работу здесь, на гитхабе](https://nbviewer.org/github/alexander-saushev/classic_ml_projects/blob/main/12_forecasting_taxi_orders/forecasting_taxi_orders.ipynb).
+
 ### Задача
 
 Компания «Четенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Наша задача — построить модель для такого предсказания.
